@@ -5,6 +5,9 @@ p{font-size: 20px;}
 
 
 a:hover{color:#B89F3A;}
+.box{
+	padding:{250,200}
+}
 
 .iframe-container{ 
   position: relative;
